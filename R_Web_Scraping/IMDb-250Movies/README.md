@@ -13,18 +13,18 @@ Finally, the database on the IMDB portal that defines the target population turn
 
 Anyway, this is really an emulation of what the late and brilliant Russian writer Leo Tolstoy [Lev Nikolayevich Tolstoy: Sep091828-Nov20190 ] state in his book -Anna Karenina: “All happy families are alike; each unhappy family is unhappy in its own way”. 
 
-## TABLE OF CONTENTS   (  [  Link to the project results ]( http://arqmain.net/Researches/Researchs/MoviesIMDb/MoviesIMDb250.html))
+## TABLE OF CONTENTS   (  [  Link to project results ]( http://arqmain.net/Researches/Researchs/MoviesIMDb/MoviesIMDb250.html))
 
-## WHAT IS IT ALL ABOUT?
+### WHAT IS IT ALL ABOUT?
 
-## DATA SOURCE, WEB SCRAPING, AND R PACKAGES
-### DATA SOURCE
-### WEB SCRAPING AND R PACKAGES
+### DATA SOURCE, WEB SCRAPING, AND R PACKAGES
+#### DATA SOURCE
+#### WEB SCRAPING AND R PACKAGES
 
-## FEATURE ENGINEERING
-### ADDING NEW INFORMATION
-### CREATION OF NEW VARIABLES
-### FINAL DATASET
+### FEATURE ENGINEERING
+#### ADDING NEW INFORMATION
+#### CREATION OF NEW VARIABLES
+#### FINAL DATASET
 
 ## DATA ANALYSIS
 ### 1 INDIVIDUAL GLOBAL DISTRIBUTIONS
