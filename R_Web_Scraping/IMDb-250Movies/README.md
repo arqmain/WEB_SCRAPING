@@ -2,9 +2,16 @@
 <img  src="https://www.arqmain.net/GITHUBE/Images/DScience2.png">
 </p>
 
-Actualized format of the presentation made in the month of June 2019, at the Universidad Católica del Maule (UCM) to students of the Engineering in Statistics career (recently created), managers, and faculty.
+Application of DATA MINING to the Internet Movie Database site IMDb, in order to dig and get information from the Top 250 Best Rating Film/Short Film of 20/21 Centuries [released between 1900-01-01 and 2019-07-01].
 
-This presentation provides a broad, very informative and accurate view of the subject. At the end of the presentation, the audience leaves with a clear vision of each of the treated topics, their interrelation, dependence, and independence respectively. The presentation is complemented with a summary exposition of the state of the art of the subject in general, and a couple of examples of direct application of recent data.
+The objectives here are to get a database with the specif information, explore the database, study some interesting relationships and present the results by using Web Scraping, Data analysis, and Visualizations with R.
+
+An equivalent project using Python instead of R is in a folder, but I will develop it sometime later. Anyway, some time ago I made a similar project using Python, but the master database was not the same and also I did not use web scraping to obtain the target database. You can access to this project here.
+
+Finally, the database on the IMDB portal that defines the target population turns out to be somewhat messy, making the following quotation valid for this project as well:
+“Tidy datasets are all alike but every messy dataset is messy in its own way.” - Hadley Wickham
+
+Anyway, this is really an emulation of what the late and brilliant Russian writer Leo Tolstoy [Lev Nikolayevich Tolstoy: Sep091828-Nov20190 ] state in his book -Anna Karenina: “All happy families are alike; each unhappy family is unhappy in its own way”. 
 
 ### TABLE OF CONTENTS
 
