@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="http://arqmain.net/Researches/Researchs/MoviesIMDb/MoviesIMDb250.html">
+<img  src="http://arqmain.net/Researches/Researchs/MoviesIMDb/MoviesIMDb250.png">
 </p>
 
 Application of DATA MINING to the Internet Movie Database site IMDb, in order to dig and get information from the Top 250 Best Rating Film/Short Film of 20/21 Centuries [released between 1900-01-01 and 2019-07-01].
