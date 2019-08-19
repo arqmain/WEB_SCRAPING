@@ -15,43 +15,71 @@ Anyway, this is really an emulation of what the late and brilliant Russian write
 
 ### TABLE OF CONTENTS
 
-### I What About Artificial Intelligence (AI)?
-##### What is AI?
-##### AI classification
-##### Some topics of AI's progress to date (July 2019)
-##### What can AI do?
-##### Some AI uses
-##### Artificial Super Intelligence (ASI)
-##### Technological Singularity
+### WHAT IS IT ALL ABOUT?
 
-### II What about Machine learning (ML)?
-##### What is ML?
-##### Why and what is the ML for?
-##### ML Classification
-##### ML techniques
-##### Overview of Neural Networks and Deep Learning
-##### Some platforms and tools specialized in ML?
-##### So why are AI and ML bundled up together?
+### DATA SOURCE, WEB SCRAPING, AND R PACKAGES
+#### DATA SOURCE
+#### WEB SCRAPING AND R PACKAGES
 
-### III What about Big Data (BigData)?
-##### What is BigData?
-##### Some important concepts associated with BigData
-##### BigData Characterization (5V)
-##### ETL and BigData
-##### What can BigData do?
-##### Some applications and uses of BigData
-##### Relationship of information storage capacity and BigData
-##### So why are AI, Machine Learning, and BigData bundled up together?
+### FEATURE ENGINEERING
+#### ADDING NEW INFORMATION
+#### CREATION OF NEW VARIABLES
+#### FINAL DATASET
 
-### IV What About Data Science?
-##### What is data science?
-##### What is Data Science projected for?
-##### Relationship of Data Science with Computer Science, Mathematics and Statistics
-##### Data Science and Domain Expertise
-##### Consolidation of the interrelation between Artificial Intelligence (AI), Machine Learning (ML), Big Data, and Data Science
+### DATA ANALYSIS
+#### 1 INDIVIDUAL GLOBAL DISTRIBUTIONS
+##### 11 What about the 10 movies with the highest profits?
+##### 12 What about the 10 most voted movies?
+##### 13 What about 10 most highly rated movies?
+##### 14 What about 10 movies most highly ranked?
+##### 15 How about 10 movies with the highest metascore?
+##### 16 How about 10 longer movies?
 
-### V Application Examples
-##### Presentation of Recent Applications
+#### 2 GROUPED DISTRIBUTIONS by Oscar winner, Ngenre, Ndirectors, Nstarts
+##### 21 Group by Oscar winners
+##### 22 Group by Ngenre
+##### 23 Group by Ndirectors
+
+#### 3 HOW ABOUT SOME TEST OF HYPOTHESIS ON FEATURES MEAN EQUALITY AND POST HOC ANALYSIS?
+##### 31 Oscar winners category
+###### 311 How about revenue’s averages troughout Oscar?
+###### 312 How about vote’s averages troughout Oscar?
+###### 312 How about vote’s averages troughout Oscar?
+
+##### 32 Ngenre category
+###### 321 How about revenue’s averages troughout Ngenre?
+###### 322 How about vote’s averages troughout Ngenre?
+###### 323 How about rating’s averages troughout Ngenre?
+
+##### 33 Ndirectors category
+###### 331 How about revenue’s averages troughout Ndirectors?
+###### 332 How about vote’s averages troughout Ndirectors?
+###### 333 How about rating’s averages troughout Ndirectors?
+
+##### 34 Summary table of the means analysis
+
+#### 4 HOW ABOUT CORRELATION AND SOME VISUALIZATIONS ABOUT IT?
+##### 41Features Distribution and Pearson’s Correlations
+##### 42 Some Scatter Global and Grouped Visualizations
+###### 421 By Oscar
+####### 4211 Visualizations revenue (x) v/s votes (y) by Oscar [Si / No]
+####### 4212 Visualizations revenue (x) v/s rating (y) by Oscar [Si / No]
+
+###### 422 By Ngenre
+####### 4221 Visualizations revenue (x) v/s votes (y) by Ngenre [1, 2, 3]
+####### 4222 Visualizations revenue (x) v/s rating (y) by Ngenre [1, 2, 3]
+
+###### 423 By Ndirectors
+####### 4231 Visualizations revenue (x) v/s votes (y) by Ndirectors [1, 2]
+####### 4232 Visualizations revenue (x) v/s rating (y) by Ndirectors [1, 2]
+
+#### 5 HOW ABOUT GENDERS, DIRECTORS AND STARS DISTIBUTION IN THE 250 FILMS?
+##### 51 Genders of films used in the 250 movies?
+##### 52 Combination of movie genders used in the 250 films?
+##### 53 Film directors of the 250 movies?
+##### 54 Movie stars in the 250 films?
+
+### DISCUSSION
 
 <hr>
 
