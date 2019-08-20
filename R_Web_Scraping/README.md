@@ -1,4 +1,4 @@
-![](http://arqmain.net/RProject_Python_Logos/intro-devtools-pop-out.gif) 
+![](http://arqmain.net/RProject_Python_Logos/RWebScraping.gif) 
 # WEB SCRAPING
 <br>
 
