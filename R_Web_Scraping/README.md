@@ -10,6 +10,6 @@
 
 * [ Data Science: Data Mining on Movie Budgets Business]() [Not ready yet!]
 
-* [ Data Science: Data Mining on Salaries of Some Chilean Public Universities ]() [Not ready yet!]
+
 
 
