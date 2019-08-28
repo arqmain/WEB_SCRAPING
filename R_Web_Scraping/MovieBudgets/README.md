@@ -50,7 +50,7 @@ The specifics objectives are:
 <hr>
 
 ><i>Hector Alvaro Rojas<br>
->Data Science, Visualizations and Applied Statistics / August 10, 2019<br>
+>Data Science, Visualizations and Applied Statistics / August 27, 2019<br>
 >Email: <arqmain2010@gmail.com> <br>
 >Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
 
