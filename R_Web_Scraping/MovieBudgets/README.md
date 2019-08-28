@@ -1,8 +1,10 @@
 <center>
 ## Data Science: Data Mining on Movie's Budgets and Revenues Business
+  
 <p align="center">
 <img  src="http://arqmain.net/Researches/Researchs/MoviesIMDb/images/Warner_Bros.gif">
 </p>
+
 <i>Hector Alvaro Rojas<br>
 Data Science, Visualizations and Applied Statistics
 </center>
