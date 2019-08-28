@@ -1,14 +1,15 @@
-<center>
-## Data Science: Data Mining on Movie's Budgets and Revenues Business
-  
 <p align="center">
 <img  src="http://arqmain.net/Researches/Researchs/MoviesIMDb/images/Warner_Bros.gif">
 </p>
 
+<p align="center">
+  
+ ## Data Science: Data Mining on Movie's Budgets and Revenues Business 
 <i>Hector Alvaro Rojas<br>
 Data Science, Visualizations and Applied Statistics
-</center>
-  
+</i>
+</p>
+
 Application of DATA MINING to the Internet Movie Database site IMDb, in order to dig and get information from the Top 250 Best Rating Film/Short Film of 20/21 Centuries [released between 1900-01-01 and 2019-07-01].
 
 The objectives here are to get a database with the specif information, explore the database, study some interesting relationships and present the results by using Web Scraping, Data analysis, and Visualizations with R.
