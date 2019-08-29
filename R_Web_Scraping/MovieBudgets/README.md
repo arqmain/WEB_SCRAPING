@@ -8,11 +8,11 @@ On this project, we deal with an application of DATA MINING to the internet movi
 
 The target population corresponds to the budget and revenues of every film in the database (5813 movies). The information covers films of 20/21 Centuries.
 
-I use the rvest r package and a for loop script is used to get all the information -for the target population- from the website. This script allows capturing the data quickly from all the pages throughout the website.
+I use the rvest r package and a for loop script to get all the information -for the target population- from the website. This script allows capturing the data quickly from all the pages throughout the website.
 
 For the treatment of the text (characters) and date, the “stringr”, “lubridate”, and “tidyr” libraries are preferably used through many of the functions that both incorporate.
 
-The data wrangling and data processing are covered with various libraries but, preferably, dplyr, tydiverse and ggpubr are used. The visualization of the results is generated through ggplot2 or some of its extensions.
+The data wrangling and data processing are covered with various libraries but, preferably, dplyr, tydiverse and ggpubr are used. The visualization of the results is generated through ggplot2 or some of its extensions and gridExtra.
 
 The specifics objectives are:
 
