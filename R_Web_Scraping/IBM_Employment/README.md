@@ -40,3 +40,10 @@ The specifics objectives are:
 ### SOME VISUALIZATIONS USING POWER BI
 
 ### DISCUSSION
+
+<hr>
+
+><i>Hector Alvaro Rojas<br>
+>Data Science, Visualizations and Applied Statistics / September 05, 2019<br>
+>Email: <arqmain2010@gmail.com> <br>
+>Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
