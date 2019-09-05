@@ -12,7 +12,7 @@ I use the rvest r package and a double and nested for loop script to get all the
 
 For the treatment of the text (characters) and date, the “stringr”, “lubridate”, and “tidyr” libraries are preferably used through many of the functions that both incorporate.
 
-The data wrangling and data processing are covered with various libraries but, preferably, dplyr, tydiverse and ggpubr are used. The visualization of the results is generated through ggplot2 or some of its extensions and gridextra.
+The data wrangling and data processing are covered with various libraries but, preferably, dplyr, tydiverse and ggpubr are used. The visualization of the results is generated through ggplot2 or some of its extensions, gridextra, and Power BI.
 
 The specifics objectives are:
 
