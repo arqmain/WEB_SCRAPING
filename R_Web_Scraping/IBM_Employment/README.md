@@ -1,1 +1,22 @@
 
+
+### TABLE OF CONTENTS
+
+### WHAT IS IT ALL ABOUT?
+
+### DATA SOURCE, WEB SCRAPING, AND R PACKAGES
+#### DATA SOURCE
+#### WEB SCRAPING AND R PACKAGES
+
+### FEATURE ENGINEERING
+#### CREATION OF NEW VARIABLES
+#### FINAL DATASET
+
+### SOME VISUALIZATIONS USING R
+#### What about Number of IBM’s Jobs Worldwide?
+#### What about Job Categories Worldwide?
+#### What about Job Categories for some Countries?
+
+### SOME VISUALIZATIONS USING POWER BI
+
+### DISCUSSION
