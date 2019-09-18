@@ -53,3 +53,9 @@ There are many applications that the area of text mining can address. The techni
 
 ### DISCUSSION
 
+<hr>
+
+><i>Hector Alvaro Rojas<br>
+>Data Science, Visualizations and Applied Statistics / September 18, 2019<br>
+>Email: <arqmain2010@gmail.com> <br>
+>Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
