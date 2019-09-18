@@ -21,8 +21,7 @@ The specifics objectives are:
 
 There are many applications that the area of text mining can address. The techniques applied in this project can be extrapolated to various situations and problems typical of human development in general, and scientific research in particular. Research Analysis in all its wide range of possibilities is especially benefited with the implementation and use of these text mining and sentiment analysis techniques as a material of high value in its daily development.
 
-
-### TABLE OF CONTENTS
+## TABLE OF CONTENTS   (  [  Link to project results ]( http://arqmain.net/Researches/Researchs/Amazon_Reviews/AMAZON_Reviews.html))
 
 ### WHAT IS IT ALL ABOUT?
 
