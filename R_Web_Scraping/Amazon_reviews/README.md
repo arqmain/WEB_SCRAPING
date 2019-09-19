@@ -8,11 +8,11 @@ On this project, we deal with an application of TEXT MINING and SENTIMENT ANALYS
 
 The target population corresponds to the Amazon's reviews by September 10, 2019.
 
-I use the rvest r package and a double and a for loop script to get all the information from the website. This script allows capturing the data quickly from all the pages throughout the website.
+I use the rvest r package and a for loop script to get all the information from the website. This script allows capturing the data quickly from all the pages throughout the website.
 
 For the treatment of the text (characters) the “stringr” and “tidyr” libraries are preferably used through many of the functions that both incorporate.
 
-The data wrangling and data processing are covered with various libraries but, preferably, dplyr, tydiverse, lubridate, tidytext, SnowballC, wordcloud, RColorBrewer, corpus,  drlib, and tm are used. The visualization of the results is generated through tidytext, gridExtra, hrbrthemes, ggplot2 or some of its extensions.
+The data wrangling and data processing are covered with various libraries but, preferably, I use dplyr, tydiverse, lubridate, tidytext, SnowballC, wordcloud, RColorBrewer, corpus,  drlib, and tm. The visualization of the results is generated through tidytext, gridExtra, hrbrthemes, ggplot2 or some of its extensions.
 
 The specifics objectives are:
 1) To web scrape the site in order to get the full database available online.
