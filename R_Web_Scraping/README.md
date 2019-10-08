@@ -8,7 +8,8 @@
 
 * [ Data Science:Data Mining on Movie's Budgets and Revenues Business](https://github.com/arqmain/WEB_SCRAPING/blob/master/R_Web_Scraping/MovieBudgets/README.md)
 
+* [ Data Science: Text Mining and Sentiment Analysis on Amazon Reviews](https://github.com/arqmain/WEB_SCRAPING/blob/master/R_Web_Scraping/Amazon_reviews/README.md)
 
-
+* [ Data Science: Complement Project on Text Mining and Sentiment Analysis on Amazon Reviews](https://github.com/arqmain/WEB_SCRAPING/blob/master/R_Web_Scraping/Complement_Amazon_Reviews/README.md)
 
 
